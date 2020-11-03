@@ -69,14 +69,6 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 - GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
 - GEOIP(CN)，用以弥补 `GEOIP,CN,DIRECT` 的不准确性；
 
-## 特殊情况
-⚠️ 如果你已经正在使用 QuantumultX，并且**只想通过JS脚本解锁🔓相应事务**，无需遵循以下完整**具体操作**，则仅需执行其中两步即可：
-1. 按 **具体操作** 中第一步，将脚本仓库下载到手机📱；
-2. 进入 QuantumultX ，点击右下角 [三菱按钮] - [重写] - [引用] ，
-3. 右上角 [+]  https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/unzip/Js.conf ，同步；
-4. 按 **具体操作** 第三步（⚠️，如果你之前已经生成并信任📄证书，则这一步可以省略；务必开启相应开关）
-5. 以上。
-
 ## 具体操作
 
 ### 第二步 ⏬ 下载 毒奶预配置文件
