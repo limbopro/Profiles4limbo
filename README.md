@@ -3,8 +3,10 @@
 # Profiles4limbo
 毒奶预配置文件（Quantumult X）懒人一键配置；
 
-# 及时收讯
-如果你在使用毒奶机场专用分流或毒奶预配置文件，为了方便收讯更新；请务必关注 [TG 电报频道](https://t.me/limboprossr) 或 [Twitter](https://twitter.com/limboprossr)；[TG 电报群组](https://t.me/Adblock4limbo);
+# 及时收讯与反馈交流
+1. [TG 电报频道](https://t.me/limboprossr)；
+2. [TG 电报群组](https://t.me/Adblock4limbo);
+3. [Twitter](https://twitter.com/limboprossr)；
 
 ## 历史更新说明 
 
