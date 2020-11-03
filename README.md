@@ -5,7 +5,7 @@
 
 # 及时收讯与反馈交流
 1. [TG 电报频道](https://t.me/limboprossr)；
-2. [TG 电报群组](https://t.me/Adblock4limbo);
+2. [TG 电报群组](https://t.me/Adblock4limbo)；
 3. [Twitter](https://twitter.com/limboprossr)；
 
 ## 历史更新说明 
@@ -94,6 +94,7 @@
 在反馈问题前，请多看看 **网络活动日志模块**（QuantumultX 主界面 **橘红色** 的日记本标识，里面📝了你的各个网络请求）；多熟悉一下 QuantumultX 操作界面，可能帮助你解决很多常见问题。
 
  **Tiktok 免拔卡解锁**：https://limbopro.xyz/archives/3629.html
+ **加入毒奶去广告计划**：https://limbopro.xyz/archives/12904.html
 
 ### 备份你的机场订阅链接🔗
 1. 进入 QuantumultX ，点击右下角 [三菱按钮]
