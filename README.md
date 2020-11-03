@@ -65,7 +65,7 @@
 
 ## 具体操作
 
-### 第一步 ⏬ 下载 毒奶预配置文件
+### 第一步 下载毒奶预配置文件
 
 1. 复制 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf 预配置文件链接；
 2. 进入 QuantumultX ，点击右下角 [三菱按钮]
