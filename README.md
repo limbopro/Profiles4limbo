@@ -48,30 +48,9 @@
 - **广告拦截**：默认选择 `Reject`，广告拦截可能会造成某些错误🙅，届时 将 **广告拦截** 的 **策略偏好** 修改为 PROXY 或 Direct 即可；
 - **Final**： 排除以上已知的分流规则的其他未知；
 
-✅ 在 [配置] - [编辑] - [filter_remote] - 对应如下：（供参考）
-
-```
-https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/airports.list, tag=机场专线, force-policy=✈️ 机场专线, enabled=true
-http://limbopro.xyz/adsblock4porn.list, tag=毒奶特供, force-policy=🛑 广告拦截, enabled=true
-https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list, tag=野比去广告（稳定版）, force-policy=🛑 广告拦截, enabled=true
-https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRuleTest.list, tag=野比去广告（测试版）, force-policy=🛑 广告拦截, enabled=false
-https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt, tag=野比(4W+), force-policy=🛑 广告拦截, enabled=true
-https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=野比(6W+), force-policy=🛑 广告拦截, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Netflix.list, tag=Netflix, force-policy=🎥 Netflix, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list, tag=其他国外流媒体, force-policy=🎥 其他国外流媒体, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list, tag=社交媒体, force-policy=📲 社交媒体, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/Apple.list, tag=苹果服务, force-policy=🍎 苹果服务, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list, tag=大陆媒体, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/ChinaIP.list, tag=GEOIP(CN), enabled=true
-```
-
-- **野比去广告**（**测试版**）/ **野比**(**4W+**) 由于其不稳定性默认是禁用的，可在 [分流] - [引用] - 左滑 [启用]；（请自行熟悉Quantumult X 操作界面）
-- GEOIP,CN,DIRECT，默认中国大陆网站均走直连；
-- GEOIP(CN)，用以弥补 `GEOIP,CN,DIRECT` 的不准确性；
-
 ## 具体操作
 
-### 第二步 ⏬ 下载 毒奶预配置文件
+### 第一步 ⏬ 下载 毒奶预配置文件
 
 1. 复制 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf 预配置文件链接；
 2. 进入 QuantumultX ，点击右下角 [三菱按钮]
@@ -79,7 +58,7 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 4. 粘贴 刚刚复制的配置 [链接]，点击 右上角 [确定] 按钮
 5. 确认，届时 QuantumultX 已添加 8个策略
 
-### 第三步 生成并配置证书
+### 第二步 生成并配置证书
 0. 如果再此之前已经生成并信任证书则 **生成并配置证书**这一步可选择忽略；
 1. 进入 QuantumultX ，点击右下角 [三菱按钮]
 2. 找到 [MitM] 模块 - 生成并配置证书📄 
@@ -91,7 +70,7 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 3. 找到 [重写] 模块 - 开启按钮 🔘
 4. 找到 [MitM] 模块 - 开启按钮 🔘
 
-### 第四步 订阅并为各个策略添加或删除节点
+### 第三步 订阅并为各个策略添加或删除节点
 1. 机场怎么订阅就不说了
 2. 进入 QuantumultX 主界面，可长按各个 **策略组对应图标** 以 为该策略添加/减少节点；
 3. 有红色感叹号❕标注的节点务必删除；
