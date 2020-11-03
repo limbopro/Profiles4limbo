@@ -78,6 +78,8 @@
 ## Faq 
 在反馈问题前，请多看看 **网络活动日志模块**（QuantumultX 主界面 **橘红色** 的日记本标识，里面📝了你的各个网络请求）；多熟悉一下 QuantumultX 操作界面，可能帮助你解决很多常见问题。
 
+ **Tiktok 免拔卡解锁**：https://limbopro.xyz/archives/3629.html
+
 ### 备份你的机场订阅链接🔗
 1. 进入 QuantumultX ，点击右下角 [三菱按钮]
 2. 找到 [配置文件] 模块 - 点击 [编辑] - 找到 [server_remote] 
