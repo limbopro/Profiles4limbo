@@ -23,12 +23,16 @@
 
 ## 毒奶预配置文件说明
 
-0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块即参数进行预配置；
-1. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，~~Termius~~，网易蜗牛读书会员等；
-2. 另外默认配置的是 🔓 美区App Store下载的 Tiktok；届时自己进 [QuantumultX] - [配置文件] - [编辑] - 找到 Tiktok 修改参数即可 
+0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块进行预配置；
+1. 包括但不限于[分流]/[重写]；
+2. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，~~Termius~~，网易蜗牛读书会员等；
 3. Surge/Clash 用户可以使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.xyz/archives/subconverter.html
 
 ## 本预配置文件所引用到的仓库
+
+<details>
+<summary>展开查看</summary>
+
 0. 在此毒奶对大家的付出表示感谢
 1. [NobyDa](https://github.com/NobyDa/Script/tree/master) 脚本仓库（*如删库可替换 NobyDa 为 limbopro，其他同理）
 2. [ConnersHua](https://github.com/ConnersHua/Profiles/tree/master) 神机规则（停止更新）
@@ -37,7 +41,13 @@
 4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
 5. [chavyleung](https://github.com/chavyleung/scripts) 签到脚本
 
+</details>
+
 ## 关于策略及分流的说明
+
+<details>
+  <summary>展开查看</summary>
+
 ⚠️ 本预配置文件默认8个策略，如上方**预览图**中所示；按以下 **具体操作** 操作完毕后即可在 Quantumult X 主界面看见。
 
 - **故障切换**：该策略组自动检测组内节点可用情况（surge 会切换选中最低延迟节点）；
@@ -48,6 +58,8 @@
 - **其他国外流媒体**：如油管，P站等一切你可以想得到国外流媒体，**流量消耗大**；
 - **广告拦截**：默认选择 `Reject`，广告拦截可能会造成某些错误🙅，届时 将 **广告拦截** 的 **策略偏好** 修改为 PROXY 或 Direct 即可；
 - **Final**： 排除以上已知的分流规则的其他未知；
+
+</details>
 
 ## 具体操作
 
