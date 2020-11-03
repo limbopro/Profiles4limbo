@@ -8,6 +8,8 @@
 2. [TG 电报群组](https://t.me/Adblock4limbo)；
 3. [Twitter](https://twitter.com/limboprossr)；
 
+# 说明
+
 ## 历史更新说明 
 
 ### 10.25.2020 更新说明
@@ -28,7 +30,7 @@
 2. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，~~Termius~~，网易蜗牛读书会员等；
 3. Surge/Clash 用户可以使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.xyz/archives/subconverter.html
 
-## 本预配置文件所引用到的仓库
+## 本预配置文件所引用到的仓库说明
 
 <details>
 <summary>展开查看</summary>
