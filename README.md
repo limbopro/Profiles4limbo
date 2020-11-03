@@ -65,7 +65,7 @@
 
 # 具体操作
 
-### 第一步 下载毒奶预配置文件
+## 第一步 下载毒奶预配置文件
 
 1. 复制 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf 预配置文件链接；
 2. 进入 QuantumultX ，点击右下角 [三菱按钮]
@@ -73,7 +73,7 @@
 4. 粘贴 刚刚复制的配置 [链接]，点击 右上角 [确定] 按钮
 5. 确认，届时 QuantumultX 已添加 8个策略
 
-### 第二步 生成并配置证书
+## 第二步 生成并配置证书
 0. 如果再此之前已经生成并信任证书则 **生成并配置证书**这一步可选择忽略；
 1. 进入 QuantumultX ，点击右下角 [三菱按钮]
 2. 找到 [MitM] 模块 - 生成并配置证书📄 
@@ -85,42 +85,42 @@
 3. 找到 [重写] 模块 - 开启按钮 🔘
 4. 找到 [MitM] 模块 - 开启按钮 🔘
 
-### 第三步 订阅并为各个策略添加或删除节点
+## 第三步 订阅并为各个策略添加或删除节点
 1. 机场怎么订阅就不说了
 2. 进入 QuantumultX 主界面，可长按各个 **策略组对应图标** 以 为该策略添加/减少节点；
 3. 有红色感叹号❕标注的节点务必删除；
 
-## Faq 
+# Faq 
 在反馈问题前，请多看看 **网络活动日志模块**（QuantumultX 主界面 **橘红色** 的日记本标识，里面📝了你的各个网络请求）；多熟悉一下 QuantumultX 操作界面，可能帮助你解决很多常见问题。
 
  **Tiktok 免拔卡解锁**：https://limbopro.xyz/archives/3629.html
  **加入毒奶去广告计划**：https://limbopro.xyz/archives/12904.html
 
-### 备份你的机场订阅链接🔗
+## 备份你的机场订阅链接🔗
 1. 进入 QuantumultX ，点击右下角 [三菱按钮]
 2. 找到 [配置文件] 模块 - 点击 [编辑] - 找到 [server_remote] 
 3. 复制 [server_remote] 下方的机场订阅链接🔗 存到某处备用
 4. 届时 恢复时 重新再 [server_remote] 下方 粘贴即可
 
-### 使用毒奶预配置文件后的一些检查
+## 使用毒奶预配置文件后的一些检查
 1. 如果出现错误提示，不要慌
 2. 进入 QuantumultX 主界面 - 各个图标点一下 看一下
 3. 熟悉一下
 
 
-### 及时更新
+## 及时更新
 *保持更新。
 
 1. [分流] - [引用] 更新
 2. [重写] - [引用] 更新
 
-## 最后 BTW
+# 最后 BTW
 因为这个配置文件也是我自用的，会保持更新，但一般无太大问题不建议大家每次跟随更新。
 
-### 进阶玩法
+## 进阶玩法
 https://limbopro.xyz/archives/3846.html
 
-### 关注频道
+## 关注频道
 https://t.me/limboprossr
 
 [1]: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/unzip/QuantumultX4limbopro.PNG
