@@ -81,7 +81,7 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 
 ### 第二步 ⏬ 下载 毒奶预配置文件
 
-1. 复制 https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/unzip/QuantumultX4limbopro.conf 预配置文件链接；
+1. 复制 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/full.conf 预配置文件链接；
 2. 进入 QuantumultX ，点击右下角 [三菱按钮]
 3. 找到 [配置文件] 模块下的 [下载] 点击
 4. 粘贴 刚刚复制的配置 [链接]，点击 右上角 [确定] 按钮
@@ -118,38 +118,12 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 2. 进入 QuantumultX 主界面 - 各个图标点一下 看一下
 3. 熟悉一下
 
-## 已知存在问题及解决办法
-### 使用 unzip 版预配置文件后，微博开屏广告没有去掉
-**A 两个方面**
-
-1. 确保 Quantumult X 已安装证书📄并且信任
-2. 进入 QuantumultX ，点击右下角 [三菱按钮] - 找到 [配置文件] 模块 - 点击 [编辑] - 找到 [rewrite_local] 下  `去微博应用内广告 (By yichahucha)` 被 # 号 注释的那行，删除 # 号即可；
-
-```
-#^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua) url script-response-body QuantumultX/File/wb_launch.js
-```
-
-### Tiktok 如何换区
-0. Tiktok 老是推荐美国🇺🇸用户上传的视频？换下国别代码即可；
-
-
-1. 进入 QuantumultX ，点击右下角 [三菱按钮] - 找到 [配置文件] 模块 - 点击 [编辑] - 找到 [rewrite_local] 下 关于 Tiktok 部分，将 US 换成 其他国别代码即可； 国别代码参考：https://limbopro.xyz/usr/uploads/2019/10/3740990267.png
-
-
-2. 换成 JP；看看日本🇯🇵妞；
-2. 另外，不是换了就马上就切换到日区的，多刷几个视频就有日区用户推荐了；
-
-### 野比去广告测试版引发的问题
-1. 目前已知会导致 QQ 定位不能正常发起
-2. 使用 [抖音去水印下载ios捷径](https://limbopro.xyz/archives/1560.html#h-44) 下载抖音视频时会出现断连；
-3. 已默认禁用；可进入 Quantumult x，[分流] - [引用] 中 找到，并右滑开启/禁用；
 
 ### 及时更新
 *保持更新。
 
 1. [分流] - [引用] 更新
 2. [重写] - [引用] 更新
-3. unzip 版本更新；
 
 ## 最后 BTW
 因为这个配置文件也是我自用的，会保持更新，但一般无太大问题不建议大家每次跟随更新。
