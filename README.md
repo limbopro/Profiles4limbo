@@ -108,6 +108,9 @@
 2. 进入 QuantumultX 主界面 - 各个图标点一下 看一下
 3. 熟悉一下
 
+## Faq 
+
+1.如果你是YouTube 会员，则应该进 `重写`- `引用` - 找到并禁用 `DivineEngine (Youtube AdsBlock)`
 
 ## 及时更新
 *保持更新。
