@@ -100,6 +100,7 @@
 
  1. **Tiktok 免拔卡解锁**：https://limbopro.xyz/archives/3629.html
  2. **加入毒奶去广告计划**：https://limbopro.xyz/archives/12904.html
+ 3. **解析器过滤节点以及regex（新）参数的用法：**https://limbopro.xyz/archives/11131.html
 
 ## 备份你的机场订阅链接🔗
 1. 进入 QuantumultX ，点击右下角 [三菱按钮]
