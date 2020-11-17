@@ -32,7 +32,7 @@
 0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块进行预配置；
 1. 包括但不限于[分流]/[重写]；
 2. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，~~Termius~~，网易蜗牛读书会员等；
-3. Surge/Clash 用户可以使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.xyz/archives/subconverter.html
+3. **Surge/Clash** 用户可使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.xyz/archives/subconverter.html
 
 ## 本预配置文件所引用到的仓库说明
 
