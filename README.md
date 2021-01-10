@@ -1,4 +1,7 @@
 ![Quantumult x for limbopro][1]
+![Quantumult x for limbopro-newest][2]
+
+⬆️ 新旧版本界面；
 
 # Profiles4limbo
 毒奶预配置文件（Quantumult X）懒人一键配置；
@@ -137,4 +140,5 @@ https://limbopro.xyz/archives/3846.html
 https://t.me/limboprossr
 
 [1]: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/unzip/QuantumultX4limbopro.PNG
+[2]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/Quantumult%20X%20v1.0.18.PNG
 
