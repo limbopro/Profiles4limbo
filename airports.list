@@ -1,6 +1,7 @@
 # > 毒奶专用
 # > 专为各大机场定制
-# > 12.27.2020
+# > 增加 Cloudflare 相关域名 01.14.2021
+# > 最新更新时间 1.14.2021
 
 DOMAIN-KEYWORD,limbopro,PROXY
 DOMAIN-KEYWORD,iplcm,PROXY
@@ -100,6 +101,10 @@ DOMAIN-SUFFIX,v2ray.life,PROXY
 DOMAIN-SUFFIX,izclass,PROXY
 DOMAIN-KEYWORD,izclass,PROXY
 DOMAIN-KEYWORD,qnddos,PROXY
+
+#Cloudflare 减速器
+DOMAIN,ajax.cloudflare.com,PROXY
+DOMAIN,static.cloudflareinsights.com.PROXY
 
 # Google Analytics
 DOMAIN,analyticsmobile-pa.googleapis.com,PROXY
