@@ -103,8 +103,8 @@ DOMAIN-KEYWORD,izclass,PROXY
 DOMAIN-KEYWORD,qnddos,PROXY
 
 #Cloudflare 减速器
-DOMAIN,ajax.cloudflare.com,PROXY
-DOMAIN,static.cloudflareinsights.com.PROXY
+HOST,ajax.cloudflare.com,PROXY
+HOST,static.cloudflareinsights.com.PROXY
 
 # Google Analytics
 DOMAIN,analyticsmobile-pa.googleapis.com,PROXY
