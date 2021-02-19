@@ -98,6 +98,8 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 4. 找到 [MitM] 模块 - 开启按钮 🔘
 
 ## 第三步 订阅机场并为各个策略添加或删除节点
+![Quantumult X PROXY/POLICY/延迟/节点可用性测试/操作界面认识/名称编辑/背景编辑.png][3]
+
 1. 订阅你的机场节点；（📢如果对Quantumult X 操作不熟悉，请不要删除名为“无用节点”的节点订阅链接；）
 2. 一切就绪后进入 QuantumultX 主界面，长按各个 **策略组对应的图标或策略组名字**（如♻️故障切换）就可以为该策略组添加/或删除不需要的节点了；
 3. 有红色感叹号❕标注的节点务必删除，以及♻️故障切换 策略组下的节点数量必须保持有两个及更多节点才有用；
@@ -107,6 +109,8 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 1. 进入QuantumultX，在主界面找到名为`机场专线`的`自定义策略`，点击展开可查看`其他国外流媒体`/`Proxy`/`故障切换`/`DIRECT`四个选项；（如果你的机场订阅无法更新，可依次选择 `DIRECT`/`PROXY`后再进行机场订阅更新，DIRECT意为着直连，不通过代理更新你的机场订阅；） 
 
 # Faq 
+![QuantumultX - 网络活动.png][4]
+
 在反馈问题前，请多看看 **网络活动日志模块**（QuantumultX 主界面 **橘红色** 的日记本标识，里面📝了你的各个网络请求）；多熟悉一下 QuantumultX 操作界面，可能帮助你解决很多常见问题。
 
  1. **Tiktok 免拔卡解锁**：https://limbopro.xyz/archives/3629.html
@@ -145,4 +149,7 @@ https://t.me/limboprossr
 
 [1]: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/unzip/QuantumultX4limbopro.PNG
 [2]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/Quantumult%20X%20v1.0.18.PNG
+[3]: https://limbopro.xyz/usr/uploads/2021/02/3637814513.png
+[4]: https://limbopro.xyz/usr/uploads/2021/02/753438643.png
+
 
