@@ -151,6 +151,6 @@ https://t.me/limboprossr
 [1]: https://raw.githubusercontent.com/limbopro/Profiles/master/limbopro/Gift/Without/unzip/QuantumultX4limbopro.PNG
 [2]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/Quantumult%20X%20v1.0.18.PNG
 [3]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/Quantumult%20X%20%E4%B8%BB%E9%A1%B5%E4%BB%8B%E7%BB%8D.png
-[4]: https://limbopro.xyz/usr/uploads/2021/02/753438643.png
+[4]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/%E6%97%A5%E5%BF%97.png
 
 
