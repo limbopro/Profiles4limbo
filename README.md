@@ -8,9 +8,10 @@
 
 # 及时收讯与反馈交流
 0. 关于本预配置文件在使用过程中如有问题请务必优先参考本文档操作步骤和FAQ部分自行尝试解决，更多问题或建议请加入我们的电报群组；
-1. [TG 电报频道](https://t.me/limboprossr)；
-2. [TG 电报群组](https://t.me/Adblock4limbo)；
-3. [Twitter](https://twitter.com/limboprossr)；
+1. 文末 FAQ / 附注部分将会为大家提供一些Quantumult X 进阶使用方法教程；
+2. [TG 电报频道](https://t.me/limboprossr)；
+3. [TG 电报群组](https://t.me/Adblock4limbo)；
+4. [Twitter](https://twitter.com/limboprossr)；
 
 # 说明
 
@@ -214,7 +215,14 @@ final, 🐟 Final
 
 ![未知错误 - 未知策略或节点解决办法.png][5]
 
-## 网络活动
+## Youtube会员
+
+⚠️ Youtube app 出现黑屏或无法观看问题；
+
+✅ 解决办法：1.如果你是YouTube 会员，则应该进 `重写`- `引用` - 找到并禁用 `DivineEngine (Youtube AdsBlock)`
+
+## 附注
+### 网络活动
 ![QuantumultX - 网络活动.png][4]
 
 在反馈问题前，请多看看 **网络活动日志模块**（QuantumultX 主界面 **橘红色** 的日记本标识，里面📝了你的各个网络请求）；多熟悉一下 QuantumultX 操作界面，可能帮助你解决很多常见问题。
@@ -223,20 +231,18 @@ final, 🐟 Final
  2. **加入毒奶去广告计划**：https://limbopro.xyz/archives/12904.html
  3. **解析器过滤节点以及regex**（**新**）**参数的用法**：https://limbopro.xyz/archives/11131.html
 
-## 备份你的机场订阅链接🔗
+### 备份你的机场订阅链接🔗
 1. 进入 QuantumultX ，点击右下角 [三菱按钮]
 2. 找到 [配置文件] 模块 - 点击 [编辑] - 找到 [server_remote] 
 3. 复制 [server_remote] 下方的机场订阅链接🔗 存到某处备用
 4. 届时 恢复时 重新在 [server_remote] 下方 粘贴即可
 
-## 使用毒奶预配置文件后的一些检查
-1. 如果出现错误提示，不要慌
-2. 进入 QuantumultX 主界面 - 各个图标点一下 看一下
-3. 熟悉一下
+### 进阶玩法和深入理解
+QuantumultX 使用教程：策略组&分流规则&自定义图标&过滤节点的进阶玩法
+https://limbopro.xyz/archives/3846.html
 
-## Faq 
-
-1.如果你是YouTube 会员，则应该进 `重写`- `引用` - 找到并禁用 `DivineEngine (Youtube AdsBlock)`
+Quantumult X 资源解析器 - 以及正则表达式，无需API转换即可在本地过滤节点
+https://limbopro.xyz/archives/11131.html#%E4%BD%BF%E7%94%A8QuantumultX_%E5%86%85%E7%BD%AE_regex_%E5%8F%82%E6%95%B0%E4%BB%A5%E5%8F%8A%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%AD%9B%E9%80%89%E8%8A%82%E7%82%B9%E5%B9%B6%E7%94%9F%E6%88%90%E7%AD%96%E7%95%A5%E7%BB%84
 
 ## 及时更新
 *保持更新。
@@ -246,9 +252,6 @@ final, 🐟 Final
 
 # 最后 BTW
 因为这个配置文件也是我自用的，会保持更新，但一般无太大问题不建议大家每次跟随更新。
-
-## 进阶玩法
-https://limbopro.xyz/archives/3846.html
 
 ## 关注频道
 https://t.me/limboprossr
