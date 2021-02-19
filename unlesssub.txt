@@ -1,0 +1,2 @@
+ss://YWVzLTEyOC1jZmI6ZmY=@ui1.example.com:80/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Dbing.com#无用节点1
+ss://YWVzLTEyOC1jZmI6ZmY=@ui2.example.com:80/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Dbing.com#无用节点2
