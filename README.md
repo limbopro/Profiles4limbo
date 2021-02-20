@@ -127,7 +127,7 @@ static=🐟 Final, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, DIREC
 
 
 [server_remote]
-#https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/unlesssub.txt, tag=无用节点（❌请不要动它）, enabled=true
+https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/unlesssub.txt, tag=无用节点（❌请不要动它）, enabled=true
 # 无用订阅（请勿删除）
 
 [filter_remote]
