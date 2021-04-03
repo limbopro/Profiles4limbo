@@ -103,6 +103,7 @@ DOMAIN-SUFFIX,izclass,PROXY
 DOMAIN-KEYWORD,izclass,PROXY
 DOMAIN-KEYWORD,qnddos,PROXY
 DOMAIN-KEYWORD,tianhang.pro,PROXY
+DOMAIN-KEYWORD,liyingcloud,PROXY
 
 #Cloudflare 减速器
 DOMAIN,ajax.cloudflare.com,PROXY
