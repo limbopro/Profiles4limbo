@@ -27,7 +27,10 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 
 ### 11.13.2020 更新说明
 
+<details>
+<summary>展开查看</summary>
 更新了分流规则至神机规则最新库；
+</details>
 
 ### 10.25.2020 更新说明
 
@@ -41,11 +44,13 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 
 
 ## 毒奶预配置文件说明
-
+<details>
+<summary>展开查看</summary>
 0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块进行预配置；
 1. 包括但不限于[分流]/[重写]；
 2. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，~~Termius~~，网易蜗牛读书会员等；
 3. **Surge/Clash** 用户可使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.xyz/archives/subconverter.html
+</details>
 
 ## 本预配置文件所引用到的仓库说明
 
