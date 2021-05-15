@@ -17,7 +17,7 @@
 
 ## 历史更新说明 
 
-### 12.27.2020 更新说明
+**12.27.2020 更新说明**
 
 <details>
 <summary>展开查看</summary>
@@ -25,14 +25,14 @@
 Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解锁参考 [如何使用Quantumult X解锁 TikTok 区域限制（免拔卡）](https://limbopro.xyz/archives/11773.html)
 </details>
 
-### 11.13.2020 更新说明
+**11.13.2020 更新说明**
 
 <details>
 <summary>展开查看</summary>
 更新了分流规则至神机规则最新库；
 </details>
 
-### 10.25.2020 更新说明
+**10.25.2020 更新说明**
 
 <details>
 <summary>展开查看</summary>
