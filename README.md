@@ -103,10 +103,10 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 
 ```
 #从这里开始复制 包括开头这个#井号
-;预配置作者
+;预配置文件作者
 ;毒奶博主
 ;limbopro.xyz
-;02.19.2021   
+;05.17.2021 更新   
 ;https://t.me/limboprossr 关注更新
 ;https://t.me/Adblock4limbo 群组反馈与讨论交流
 
@@ -114,15 +114,15 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 
 #解析器作者 @XIAO_KOP 
 resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
-geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/limbopro/QuantumultX/master/Scripts/IP_API.js
 
+#IP_API 改自 @XIAO_KOP
+geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/limbopro/QuantumultX/master/Scripts/IP_API.js
 
 [dns]
 server=223.5.5.5
 server=114.114.114.114
 server=119.29.29.29
 server=8.8.8.8
-
 
 [policy]
 available=♻️ 故障切换, 无用节点1, 无用节点2, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Available.png
@@ -142,10 +142,9 @@ https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/unlesssub.txt, ta
 [filter_remote]
 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/airports.list, tag=机场专线, force-policy=✈️ 机场专线, enabled=true
 https://limbopro.xyz/Adblock4limbo.list, tag=毒奶特供, force-policy=🛑 广告拦截, enabled=true
-#https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRule.list, tag=野比去广告（稳定版）, force-policy=🛑 广告拦截, enabled=false
-#https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/AdRuleTest.list, tag=野比去广告（测试版）, force-policy=🛑 广告拦截, enabled=false
-https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt, tag=野比(4W+), force-policy=🛑 广告拦截, enabled=true
-https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=野比(6W+), force-policy=🛑 广告拦截, enabled=true
+https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt, tag=野比(4W+), force-policy=🛑 广告拦截, enabled=false
+https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=野比(6W+), force-policy=🛑 广告拦截, enabled=false
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/BlockiOSUpdate.list, tag=禁止🚫🍎更新, force-policy=🛑 广告拦截, update-interval=86400, opt-parser=false, enabled=false
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Netflix.list, tag=Netflix, force-policy=🎥 Netflix, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list, tag=其他国外流媒体, force-policy=🎥 其他国外流媒体, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list, tag=社交媒体, force-policy=📲 社交媒体, enabled=true
@@ -158,7 +157,7 @@ https://limbopro.xyz/Adblock4limbo.conf, tag=毒奶特供, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=DivineEngine (Youtube AdsBlock), enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=DivineEngine (Advertising), enabled=true
 #https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Rewrite.conf, tag=ConnersHua （DivineEngine Rewrite）, enabled=true
-https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=NoByDa（lhie1 Rewrite）, enabled=true
+https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Rewrite_lhie1.conf, tag=NoByDa（lhie1 Rewrite）, enabled=false
 https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf, tag=NoByDa（NoByDa Rewrite）, enabled=true
 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/tiktok.conf, tag=TikTok ublock, enabled=true
 
@@ -177,9 +176,9 @@ final, 🐟 Final
 
 [rewrite_local]
 
+
 [mitm]
 #到这里结束
-
 ```
 
 >> ⚠️ Quantumult X 最新版本中在你还没有**订阅机场节点**（即第三步完成）前，APP主界面可能不会直接出现这8个策略；（02.19.2021）
