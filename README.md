@@ -103,10 +103,10 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 
 ```
 #从这里开始复制 包括开头这个#井号
-;预配置文件作者
+;预配置作者
 ;毒奶博主
 ;limbopro.xyz
-;05.17.2021 更新   
+;05.19.2021 更新   
 ;https://t.me/limboprossr 关注更新
 ;https://t.me/Adblock4limbo 群组反馈与讨论交流
 
@@ -124,7 +124,7 @@ server=114.114.114.114
 server=119.29.29.29
 server=8.8.8.8
 address=/raw.githubusercontent.com/185.199.110.133
-## 新增 raw.githubusercontent.com dns 解析以修正 国内ssl连接错误❌
+
 
 [policy]
 available=♻️ 故障切换, 无用节点1, 无用节点2, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Available.png
@@ -138,7 +138,7 @@ static=🐟 Final, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, DIREC
 
 
 [server_remote]
-https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/unlesssub.txt, tag=无用节点（❌请不要动它）, enabled=true
+# https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/unlesssub.txt, tag=无用节点（❌请不要动它）, enabled=false
 # 无用订阅（请勿删除）
 
 [filter_remote]
@@ -164,7 +164,8 @@ https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Js.conf, tag=
 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/tiktok.conf, tag=TikTok ublock, enabled=true
 
 [server_local]
-
+shadowsocks=example.com:80, method=aes-128-gcm, password=pwd, obfs=ws, fast-open=false, tag=无用节点1
+shadowsocks=example.com:80, method=aes-128-gcm, password=pwd, obfs=ws, fast-open=false, tag=无用节点2
 
 [filter_local]
 geoip, cn, direct
@@ -175,11 +176,10 @@ ip-cidr, 192.168.0.0/16, direct
 ip-cidr, 224.0.0.0/24, direct
 final, 🐟 Final
 
-
 [rewrite_local]
 
-
 [mitm]
+
 #到这里结束
 ```
 
