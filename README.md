@@ -123,6 +123,8 @@ server=223.5.5.5
 server=114.114.114.114
 server=119.29.29.29
 server=8.8.8.8
+address=/raw.githubusercontent.com/185.199.110.133
+## 新增 raw.githubusercontent.com dns 解析以修正 国内ssl连接错误❌
 
 [policy]
 available=♻️ 故障切换, 无用节点1, 无用节点2, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Available.png
