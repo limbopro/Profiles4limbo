@@ -102,6 +102,7 @@ DOMAIN-KEYWORD,izclass,PROXY
 DOMAIN-KEYWORD,qnddos,PROXY
 DOMAIN-KEYWORD,tianhang,PROXY
 DOMAIN-KEYWORD,liyingcloud,PROXY
+DOMAIN-KEYWORD,shuttle,PROXY
 
 #Cloudflare 减速器
 DOMAIN,ajax.cloudflare.com,PROXY
