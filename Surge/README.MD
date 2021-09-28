@@ -25,6 +25,6 @@
 
 1.点击 https://www.urlencoder.org/ 进入编码页面，粘贴你的机场订阅，点击 ENCODE按钮，得到编码后的链接；
 
-2.https://limbopro.cf/sub?target=surge&ver=4&url=这里粘贴编码后的链接&list=true
+2.https://limbopro.cyou/sub?target=surge&ver=4&url=这里粘贴编码后的链接&list=true
 
 3.以上，粘贴第2点得到的全新链接到外部代理处；
