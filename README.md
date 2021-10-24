@@ -26,7 +26,7 @@
 <details>
 <summary>展开查看</summary>
 
-Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解锁参考 [如何使用Quantumult X解锁 TikTok 区域限制（免拔卡）](https://limbopro.xyz/archives/11773.html)
+Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解锁参考 [如何使用Quantumult X解锁 TikTok 区域限制（免拔卡）](https://limbopro.com/archives/11773.html)
 </details>
 
 **11.13.2020 更新说明**
@@ -53,7 +53,7 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块进行预配置；
 1. 包括但不限于[分流]/[重写]；
 2. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，~~Termius~~，网易蜗牛读书会员等；
-3. **Surge/Clash** 用户可使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.xyz/archives/subconverter.html
+3. **Surge/Clash** 用户可使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.com/archives/subconverter.html
 </details>
 
 ## 本预配置文件所引用到的仓库说明
@@ -105,7 +105,7 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 #从这里开始复制 包括开头这个#井号
 ;预配置作者
 ;毒奶博主
-;limbopro.xyz
+;limbopro.com
 ;05.19.2021 更新   
 ;https://t.me/limboprossr 关注更新
 ;https://t.me/Adblock4limbo 群组反馈与讨论交流
@@ -143,7 +143,7 @@ static=🐟 Final, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, DIREC
 
 [filter_remote]
 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/airports.list, tag=机场专线, force-policy=✈️ 机场专线, enabled=true
-https://limbopro.xyz/Adblock4limbo.list, tag=毒奶特供, force-policy=🛑 广告拦截, enabled=true
+https://limbopro.com/Adblock4limbo.list, tag=毒奶特供, force-policy=🛑 广告拦截, enabled=true
 https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt, tag=野比(4W+), force-policy=🛑 广告拦截, enabled=true
 https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=野比(6W+), force-policy=🛑 广告拦截, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/BlockiOSUpdate.list, tag=禁止🚫🍎更新, force-policy=🛑 广告拦截, update-interval=86400, opt-parser=false, enabled=false
@@ -155,7 +155,7 @@ https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/ChinaIP.list, tag=GEOIP(CN), enabled=true
 
 [rewrite_remote]
-https://limbopro.xyz/Adblock4limbo.conf, tag=毒奶特供, enabled=true
+https://limbopro.com/Adblock4limbo.conf, tag=毒奶特供, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/YouTubeAds.conf, tag=DivineEngine (Youtube AdsBlock), enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Rewrite/Block/Advertising.conf, tag=DivineEngine (Advertising), enabled=true
 #https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Rewrite.conf, tag=ConnersHua （DivineEngine Rewrite）, enabled=true
@@ -235,9 +235,10 @@ final, 🐟 Final
 
 >在反馈问题前，请多看看 **网络活动日志模块**（QuantumultX 主界面 **橘红色** 的日记本标识，里面📝了你的各个网络请求）；多熟悉一下 QuantumultX 操作界面，可能帮助你解决很多常见问题。
 
-> 1. **Tiktok 免拔卡解锁**：https://limbopro.xyz/archives/3629.html
-> 2. **加入毒奶去广告计划**：https://limbopro.xyz/archives/12904.html
-> 3. **解析器过滤节点以及regex**（**新**）**参数的用法**：https://limbopro.xyz/archives/11131.html
+> 1. **Tiktok 免拔卡解锁**：https://limbopro.com/archives/3629.html
+> 2. **加入毒奶去广告计划**：https://limbopro.com/archives/12904.html
+> 3 **VSCO 会员VIP破解**：QX - 重写 - 引用：https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/vsco_crack.conf
+> 4. **解析器过滤节点以及regex**（**新**）**参数的用法**：https://limbopro.com/archives/11131.html
 
 ### 备份你的机场订阅链接🔗
 > 1. 进入 QuantumultX ，点击右下角 [三菱按钮]
@@ -247,10 +248,10 @@ final, 🐟 Final
 
 ### 进阶玩法和深入理解
 QuantumultX 使用教程：策略组&分流规则&自定义图标&过滤节点的进阶玩法
-https://limbopro.xyz/archives/3846.html
+https://limbopro.com/archives/3846.html
 
 Quantumult X 资源解析器 - 以及正则表达式，无需API转换即可在本地过滤节点
-https://limbopro.xyz/archives/11131.html#%E4%BD%BF%E7%94%A8QuantumultX_%E5%86%85%E7%BD%AE_regex_%E5%8F%82%E6%95%B0%E4%BB%A5%E5%8F%8A%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%AD%9B%E9%80%89%E8%8A%82%E7%82%B9%E5%B9%B6%E7%94%9F%E6%88%90%E7%AD%96%E7%95%A5%E7%BB%84
+https://limbopro.com/archives/11131.html#%E4%BD%BF%E7%94%A8QuantumultX_%E5%86%85%E7%BD%AE_regex_%E5%8F%82%E6%95%B0%E4%BB%A5%E5%8F%8A%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E7%AD%9B%E9%80%89%E8%8A%82%E7%82%B9%E5%B9%B6%E7%94%9F%E6%88%90%E7%AD%96%E7%95%A5%E7%BB%84
 
 ## 及时更新
 *保持更新。
@@ -269,5 +270,3 @@ https://t.me/limboprossr
 [3]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/Quantumult%20X%20%E4%B8%BB%E9%A1%B5%E4%BB%8B%E7%BB%8D.png
 [4]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/%E6%97%A5%E5%BF%97.png
 [5]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/%E2%99%BB%EF%B8%8F%20%E6%95%85%E9%9A%9C%E5%88%87%E6%8D%A2.png
-
-
