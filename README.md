@@ -237,7 +237,7 @@ final, 🐟 Final
 
 > 1. **Tiktok 免拔卡解锁**：https://limbopro.com/archives/3629.html
 > 2. **加入毒奶去广告计划**：https://limbopro.com/archives/12904.html
-> 3. **VSCO 会员VIP破解**：QX - 重写 - 引用：https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/vsco_crack.conf
+> 3. **VSCO 会员VIP解锁破解**：QX - 重写 - 引用：https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/vsco_crack.conf
 > 4. **解析器过滤节点以及regex**（**新**）**参数的用法**：https://limbopro.com/archives/11131.html
 
 ### 备份你的机场订阅链接🔗
