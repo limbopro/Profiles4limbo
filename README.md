@@ -235,6 +235,8 @@ final, 🐟 Final
 
 >在反馈问题前，请多看看 **网络活动日志模块**（QuantumultX 主界面 **橘红色** 的日记本标识，里面📝了你的各个网络请求）；多熟悉一下 QuantumultX 操作界面，可能帮助你解决很多常见问题。
 
+### 其他解锁玩法
+
 > 1. **Tiktok 免拔卡解锁**：https://limbopro.com/archives/3629.html
 > 2. **加入毒奶去广告计划**：https://limbopro.com/archives/12904.html
 > 3. **VSCO 会员VIP解锁破解**：QX - 重写 - 引用：https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/vsco_crack.conf
