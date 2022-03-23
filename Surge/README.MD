@@ -10,19 +10,19 @@ https://limbopro.com/Surge/Surge4limbo.conf
 
 ## 安装模块（Tiktok解锁、YouTubeApp去广告、毒奶去网页广告计划）
 
-**模块1：** （YoutubeApp去广告，由 [神机规则制作人-花姐](https://github.com/DivineEngine/Profiles/tree/master) 维护）
+**模块1：YoutubeApp去广告 重写** （由 [神机规则制作人-花姐](https://github.com/DivineEngine/Profiles/tree/master) 维护）
 
 ```
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/YouTubeAds.sgmodule
 ```
 
-**模块2：** (Tiktok解锁，由 [Tartarus2014](https://github.com/Tartarus2014/Surge-Script/tree/master/Unlock) 维护)
+**模块2：Tiktok解锁重写** (由 [Tartarus2014](https://github.com/Tartarus2014/Surge-Script/tree/master/Unlock) 维护)
 
 ```
 https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Unlock/TikTokUS.sgmodule
 ```
 
-**模块3：** (毒奶去网页广告计划，由 [毒奶博主](https://limbopro.com/archives/12904.html) 维护)
+**模块3：毒奶去网页广告计划** (由 [毒奶博主](https://limbopro.com/archives/12904.html) 维护)
 
 ```
 https://limbopro.com/Adblock4limbo.sgmodule
