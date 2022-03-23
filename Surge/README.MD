@@ -3,8 +3,27 @@
 
 2.找到**导入**，点击**从URL下载配置**，粘贴刚刚复制的配置文件链接🔗；
 
-## 安装模块（Tiktok解锁、YouTubeApp去广告）
-1.复制 https://limbopro.com/Surge/Surge4limbo.sgmodule 模块链接🔗，进入 Surge 主界面，下滑，找到**模块**项目，点击**模块**按钮；
+## 安装模块（Tiktok解锁、YouTubeApp去广告、毒奶去网页广告计划）
+
+**模块1：** （YoutubeApp去广告，由 [神机规则制作人-花姐](https://github.com/DivineEngine/Profiles/tree/master) 维护）
+
+```
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/YouTubeAds.sgmodule
+```
+
+**模块2：** (Tiktok解锁，由 [Tartarus2014](https://github.com/Tartarus2014/Surge-Script/tree/master/Unlock) 维护)
+
+```
+https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Unlock/TikTokUS.sgmodule
+```
+
+**模块3：** (毒奶去网页广告计划，由 [毒奶博主](https://limbopro.com/archives/12904.html) 维护)
+
+```
+https://limbopro.com/Adblock4limbo.sgmodule
+```
+
+1.复制 上述1、2、3个模块的链接🔗，进入 Surge 主界面，下滑，找到**模块**项目，点击**模块**按钮；
 
 2.**安装的模块**，点击**安装新模块**；
 
