@@ -40,7 +40,7 @@ https://limbopro.com/Adblock4limbo.sgmodule
 
 下载后配置文件后 1.进入主界面 - 出站模式 - 选择规则模式 - 点击进入代理服务器；
 
-2.分别找到如下策略组，♻️故障切换、其他国外流媒体、Netflix；滑至底部，找到外部代理列表，粘贴你的 surgelist。
+2.分别找到如下策略组，♻️故障切换、其他国外流媒体、Netflix；滑至底部，找到**外部代理列表**，粘贴你的 **surge.list**。
 
 3.配置证书📄；
 
@@ -51,7 +51,7 @@ https://limbopro.com/Adblock4limbo.sgmodule
 
 2.https://limbopro.cyou/sub?target=surge&ver=4&url=这里粘贴编码后的链接&list=true
 
-3.以上，粘贴第2点得到的全新链接到外部代理处；
+3.以上，粘贴第2点得到的全新链接到**外部代理列表**处；
 
 ### 多个机场订阅的情况（合并为1个订阅）
 
