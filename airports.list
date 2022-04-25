@@ -1,7 +1,7 @@
 # > 毒奶专用
 # > 专为各大机场定制
 # > 增加 Cloudflare 相关域名 01.14.2021
-# > 最新更新时间 07.22.2021
+# > 最新更新时间 04.26.2022
 # > 讨论群组 https://t.me/Adblock4limbo
 
 DOMAIN-KEYWORD,limbopro,PROXY
@@ -108,6 +108,10 @@ DOMAIN-KEYWORD,osk2,PROXY
 DOMAIN-KEYWORD,gacloudltd,PROXY
 DOMAIN-KEYWORD,catnet,PROXY
 DOMAIN-KEYWORD,osk2.com,PROXY
+DOMAIN-KEYWORD,naiyouu,PROXY
+DOMAIN,m.sw16.icu,PROXY
+
+
 
 #Cloudflare 减速器
 DOMAIN,ajax.cloudflare.com,PROXY
