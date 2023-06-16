@@ -111,7 +111,7 @@ DOMAIN-KEYWORD,osk2.com,PROXY
 DOMAIN-KEYWORD,naiyouu,PROXY
 DOMAIN-KEYWORD,bygcloud,PROXY
 DOMAIN,m.sw16.icu,PROXY
-DOMAIN,flyingbird,PROXY
+DOMAIN-KEYWORD,flyingbird,PROXY
 
 #Cloudflare 减速器
 DOMAIN,ajax.cloudflare.com,PROXY
