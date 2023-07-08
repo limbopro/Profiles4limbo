@@ -66,8 +66,9 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 <summary>展开查看</summary>
 
 0. 在此毒奶对大家的付出表示感谢
-1. [NobyDa](https://github.com/NobyDa/Script/tree/master) 脚本仓库（*如删库可替换 NobyDa 为 limbopro，其他同理）
-2. [NobyDa-AD](https://github.com/NobyDa/ND-AD) 野比去广告分流；（10w+）
+1. [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script) 分流规则/重写/去广告（持续更新，涵盖时下流行的大多数海外App/大陆App分流规则，适用于 Surge/QuantumultX/Loon/Clash/Shadowrocket...）
+2. [NobyDa](https://github.com/NobyDa/Script/tree/master) 脚本仓库（*如删库可替换 NobyDa 为 limbopro，其他同理）
+3. [NobyDa-AD](https://github.com/NobyDa/ND-AD) 野比去广告分流；（10w+）
 2. [ConnersHua](https://github.com/ConnersHua/Profiles/tree/master) 神机规则（停止更新）
 3. [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master) 神机规则（更新中），包含 `YouTube APP`去广告/`Tiktok` 解锁的重写，请自行查看；
 3. [limbopro](https://github.com/limbopro/Profiles/tree/master/limbopro) 机场专线
