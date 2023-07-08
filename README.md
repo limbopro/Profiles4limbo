@@ -91,6 +91,10 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 - **广告拦截**：默认选择 `Reject`，广告拦截可能会造成某些错误🙅，届时 将 **广告拦截** 的 **策略偏好** 修改为 PROXY 或 Direct 即可；
 - **Final**： 排除以上已知的分流规则的其他未知；
 
+**大陆/海外App分流规则整理来自blackmatrix7**：https://github.com/blackmatrix7/ios_rule_script （持续更新，涵盖时下流行的大多数海外App/大陆App分流规则，适用于 Surge/QuantumultX/Loon/Clash/Shadowrocket...）
+**大陆/海外App分流规则整理来自神机（花姐）规则**：https://github.com/DivineEngine/Profiles/tree/master（已停更）
+**去广告规则来自NobyDa（野比）规则**：https://github.com/NobyDa/
+**机场专线规则来自博主（毒奶）**：https://github.com/limbopro/Profiles4limbo
 
 # 具体操作（如何使用QX懒人配置文件）
 
