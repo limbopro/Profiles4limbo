@@ -74,13 +74,15 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 
 ## 关于策略组及分流的说明
 
-⚠️ 本预配置文件默认8个策略，如上方**预览图**中所示；按以下 **具体操作** 操作完毕后即可在 Quantumult X 主界面看见。
+⚠️ 本预配置文件默认10个策略，如上方**预览图**中所示；按以下 **具体操作** 操作完毕后即可在 Quantumult X 主界面看见。
 
 - **故障切换**：该策略自动会自动从下到下检测该策略下所选用节点的可用情况，然后自动切换到可用节点（surge 会切换选中最低延迟节点）；；
 - **机场专线**：主流机场域名分流规则，例如 N3RO ，你可使其请求走代理，直连等；
 - **社交媒体**：国外社交媒体，如Twitter/Facebook/Instagram/Telegram 等，**流量消耗小，但需要稳定**；
 - **苹果服务**：苹果服务相关分流规则；
+- **openAI**：chatGPT/OpenAI分流规则（2023热门）；
 - **Netflix**：鉴于大家喜欢看 Netflix；
+- **Disney+**：鉴于大家喜欢看 Disney+（较少数，英文生肉较多）；
 - **其他国外流媒体**：如油管，P站等一切你可以想得到国外流媒体，**流量消耗大**；
 - **广告拦截**：默认选择 `Reject`，广告拦截可能会造成某些错误🙅，届时 将 **广告拦截** 的 **策略偏好** 修改为 PROXY 或 Direct 即可；
 - **Final**： 排除以上已知的分流规则的其他未知；
@@ -106,7 +108,7 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 ;预配置作者
 ;毒奶博主
 ;limbopro.com
-;04.06.2022 更新   
+;07.07.2023 更新   
 ;https://t.me/limboprossr 关注更新
 ;https://t.me/Adblock4limbo 群组反馈与讨论交流
 
@@ -123,7 +125,6 @@ geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubuserc
 server=223.5.5.5
 server=114.114.114.114
 server=119.29.29.29
-server=8.8.8.8
 address=/raw.githubusercontent.com/185.199.110.133
 
 
@@ -132,7 +133,9 @@ available=♻️ 故障切换, 无用节点1, 无用节点2, img-url=https://raw
 static=✈️ 机场专线, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/rocket.png
 static=📲 社交媒体, 🎥 其他国外流媒体,  ♻️ 故障切换, PROXY, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
 static=🍎 苹果服务, DIRECT, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
+static=🤖 openAI, DIRECT, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
 static=🎥 Netflix, 🎥 其他国外流媒体, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Netflix_Letter.png
+static=🐭 Disney+, 🎥 其他国外流媒体, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Netflix_Letter.png
 static=🎥 其他国外流媒体, ♻️ 故障切换, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Qure/master/IconSet/GlobalMedia.png
 static=🛑 广告拦截, REJECT, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/limbopro/Qure/master/IconSet/Advertising.png
 static=🐟 Final, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, DIRECT, 🛑 广告拦截, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Final.png
@@ -148,10 +151,12 @@ https://limbopro.com/Adblock4limbo.list, tag=毒奶特供, force-policy=🛑 广
 https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt, tag=野比(4W+), force-policy=🛑 广告拦截, enabled=false
 https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=野比(6W+), force-policy=🛑 广告拦截, enabled=false
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/BlockiOSUpdate.list, tag=禁止🚫🍎更新, force-policy=🛑 广告拦截, update-interval=86400, opt-parser=false, enabled=false
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Video/Netflix.list, tag=Netflix, force-policy=🎥 Netflix, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list, tag=其他国外流媒体, force-policy=🎥 其他国外流媒体, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list, tag=Netflix, force-policy=🎥 Netflix, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list, tag=Disney+, force-policy=🐭 Disney+, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list, tag=苹果服务, force-policy=🍎 苹果服务, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list, tag=openAI, force-policy=🤖 openAI, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list, tag=社交媒体, force-policy=📲 社交媒体, enabled=true
-https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/Apple.list, tag=苹果服务, force-policy=🍎 苹果服务, enabled=true
+https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list, tag=其他国外流媒体, force-policy=🎥 其他国外流媒体, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list, tag=大陆媒体, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/ChinaIP.list, tag=GEOIP(CN), enabled=true
 
@@ -177,10 +182,10 @@ ip-cidr, 192.168.0.0/16, direct
 ip-cidr, 224.0.0.0/24, direct
 final, 🐟 Final
 
+
 [rewrite_local]
 
 [mitm]
-
 #到这里结束
 ```
 
@@ -231,6 +236,12 @@ final, 🐟 Final
 >> ✅ 解决办法：1.如果你是YouTube 会员，则应该进 `重写`- `引用` - 找到并禁用 `DivineEngine (Youtube AdsBlock)`
 
 ## 附注
+
+
+blackmatrix7 分流/重写项目仓库地址：https://github.com/blackmatrix7/ios_rule_script/tree/master （目前全网更新较为勤奋，且包含App最为齐全的分流...OpenAI/ChatGPT分流..） 本 QuantumultX 懒人配置目前仅涵盖较少部分常用海外App分流规则，大家如需可进行查阅仓库，并在 Quantumult X 引用；
+
+神机规则分流项目仓库地址：https://github.com/DivineEngine/Profiles/tree/master (已停更8个月)
+
 ### 网络活动
 ![QuantumultX - 网络活动.png][4]
 
