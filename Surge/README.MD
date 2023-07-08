@@ -80,3 +80,9 @@ https://limbopro.com/Adblock4limbo.sgmodule
 2.继续往下滑，找到 **新建策略组** 按钮，点击它；然后设置好策略组的**组名称**，**组类型**，你可以看到 **包含的策略**，它的下方目前是 空的，你还可以看到 **可用的策略**，你可以选择拖拽这些 **可用的策略** 到 **包含的策略** 下方，这样就完成了一个基本的策略组嵌套；好了，往下滑，你会看到 **外部代理列表**，很熟悉吧，选择 **开启**，粘贴 你的 Surge.list；
 
 3.Surge/QuantumultX/Clash 的策略组都是如此嵌套在一起的，可以是单独的策略，如 DIRECT/REJECT/PROXY，我们命名一个策略名称为B，并把一个机场订阅的节点放在下面，就得到了一个新的策略，你可在策略A下嵌套B。
+
+## 附注
+
+blackmatrix7 分流/重写项目仓库地址：https://github.com/blackmatrix7/ios_rule_script/tree/master （目前全网更新较为勤奋，且包含App最为齐全的分流...OpenAI/ChatGPT分流..） 本 QuantumultX 懒人配置目前仅涵盖较少部分常用海外App分流规则，大家如需可进行查阅仓库，并在 Quantumult X 引用；
+
+神机规则分流项目仓库地址：https://github.com/DivineEngine/Profiles/tree/master (已停更8个月)
