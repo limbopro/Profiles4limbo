@@ -17,6 +17,9 @@ DOMAIN-KEYWORD,claude
 # https://bard.google.com/
 # created by limbopro
 # repo:https://github.com/limbopro/Profiles4limbo/
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,apis.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,in.appcenter.ms
 DOMAIN-SUFFIX,ogs.google.com
+DOMAIN-SUFFIX,www.google.com
