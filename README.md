@@ -21,6 +21,10 @@
 
 ## 历史更新说明 
 
+**07.15.2023 更新说明**
+
+OpenAI/Chatgpt/Claude 2/Google Bard 分流规则整合至一起，共用 AI Platforms 策略；
+
 **07.07.2023 更新说明**
 
 新增 Disney+/OpenAI分流规则，以及更新部分神机分流规则至 blackmatrix7
@@ -85,7 +89,7 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 - **机场专线**：主流机场域名分流规则，例如 N3RO ，你可使其请求走代理，直连等；
 - **社交媒体**：国外社交媒体，如Twitter/Facebook/Instagram/Telegram 等，**流量消耗小，但需要稳定**；
 - **苹果服务**：苹果服务相关分流规则；
-- **openAI**：chatGPT/OpenAI分流规则（2023热门）；
+- **AI Platforms**：：chatGPT/OpenAI/Google Bard/Claude2...分流规则（2023热门）；
 - **Netflix**：鉴于大家喜欢看 Netflix；
 - **Disney+**：鉴于大家喜欢看 Disney+（较少数，英文生肉较多）；
 - **其他国外流媒体**：如油管，P站等一切你可以想得到国外流媒体，**流量消耗大**；
@@ -142,9 +146,9 @@ available=♻️ 故障切换, 无用节点1, 无用节点2, img-url=https://raw
 static=✈️ 机场专线, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/rocket.png
 static=📲 社交媒体, 🎥 其他国外流媒体,  ♻️ 故障切换, PROXY, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
 static=🍎 苹果服务, DIRECT, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
-static=🤖 openAI, DIRECT, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Apple.png
+static=🤖 AI Platforms, 🎥 其他国外流媒体, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/AI%20Platforms.png
 static=🎥 Netflix, 🎥 其他国外流媒体, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Netflix_Letter.png
-static=🐭 Disney+, 🎥 其他国外流媒体, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Netflix_Letter.png
+static=🐭 Disney+, 🎥 其他国外流媒体, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Disney+.png
 static=🎥 其他国外流媒体, ♻️ 故障切换, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Qure/master/IconSet/GlobalMedia.png
 static=🛑 广告拦截, REJECT, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/limbopro/Qure/master/IconSet/Advertising.png
 static=🐟 Final, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, DIRECT, 🛑 广告拦截, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Final.png
