@@ -92,12 +92,13 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 - **AI Platforms**：：chatGPT/OpenAI/Google Bard/Claude2...分流规则（2023热门）；
 - **Netflix**：鉴于大家喜欢看 Netflix；
 - **Disney+**：鉴于大家喜欢看 Disney+（较少数，英文生肉较多）；
+- **Tiktok**：鉴于大家喜欢看 Tiktok（嘿嘿嘿）；大家可以刷[网页版TikTok](https://www.tiktok.com/foryou)哦；
 - **其他国外流媒体**：如油管，P站等一切你可以想得到国外流媒体，**流量消耗大**；
 - **广告拦截**：默认选择 `Reject`，广告拦截可能会造成某些错误🙅，届时 将 **广告拦截** 的 **策略偏好** 修改为 PROXY 或 Direct 即可；
 - **Final**： 排除以上已知的分流规则的其他未知；
 
 **大陆/海外App分流规则整理来自blackmatrix7**：https://github.com/blackmatrix7/ios_rule_script （持续更新，涵盖时下流行的大多数海外App/大陆App分流规则，适用于 Surge/QuantumultX/Loon/Clash/Shadowrocket...）
-**大陆/海外App分流规则整理来自神机（花姐）规则**：https://github.com/DivineEngine/Profiles/tree/master（已停更）
+**大陆/海外App分流规则整理来自神机（花姐）规则**：https://github.com/DivineEngine/Profiles/tree/master （已停更）
 **去广告规则来自NobyDa（野比）规则**：https://github.com/NobyDa/
 **机场专线规则来自博主（毒奶）**：https://github.com/limbopro/Profiles4limbo
 
@@ -121,7 +122,7 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 ;预配置作者
 ;毒奶博主
 ;limbopro.com
-;07.07.2023 更新   
+;08.05.2023 更新   
 ;https://t.me/limboprossr 关注更新
 ;https://t.me/Adblock4limbo 群组反馈与讨论交流
 
@@ -149,6 +150,7 @@ static=🍎 苹果服务, DIRECT, 🎥 其他国外流媒体, ♻️ 故障切�
 static=🤖 AI Platforms, 🎥 其他国外流媒体, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/AI%20Platforms.png
 static=🎥 Netflix, 🎥 其他国外流媒体, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Netflix_Letter.png
 static=🐭 Disney+, 🎥 其他国外流媒体, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Disney+.png
+static=🎵 TikTok, 🎥 其他国外流媒体, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/TikTok.png
 static=🎥 其他国外流媒体, ♻️ 故障切换, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Qure/master/IconSet/GlobalMedia.png
 static=🛑 广告拦截, REJECT, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/limbopro/Qure/master/IconSet/Advertising.png
 static=🐟 Final, 🎥 其他国外流媒体, ♻️ 故障切换, PROXY, DIRECT, 🛑 广告拦截, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Final.png
@@ -166,8 +168,9 @@ https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Extra/Apple/BlockiOSUpdate.list, tag=禁止🚫🍎更新, force-policy=🛑 广告拦截, update-interval=86400, opt-parser=false, enabled=false
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list, tag=Netflix, force-policy=🎥 Netflix, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list, tag=Disney+, force-policy=🐭 Disney+, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/TikTok/TikTok.list,tag=Tiktok, force-policy=🎵 TikTok, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list, tag=苹果服务, force-policy=🍎 苹果服务, enabled=true
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list, tag=openAI, force-policy=🤖 openAI, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list, tag=openAI, force-policy=🤖 AI Platforms, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/Global.list, tag=社交媒体, force-policy=📲 社交媒体, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/StreamingMedia/Streaming.list, tag=其他国外流媒体, force-policy=🎥 其他国外流媒体, enabled=true
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Quantumult/Filter/China.list, tag=大陆媒体, enabled=true
@@ -194,7 +197,6 @@ ip-cidr, 172.16.0.0/12, direct
 ip-cidr, 192.168.0.0/16, direct
 ip-cidr, 224.0.0.0/24, direct
 final, 🐟 Final
-
 
 [rewrite_local]
 
