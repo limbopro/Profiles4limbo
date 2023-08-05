@@ -21,6 +21,10 @@
 
 ## 历史更新说明 
 
+**08.05.2023 更新说明**
+
+策略组及分流新增 **Tiktok**，以方便喜欢刷Tiktok的用户；
+
 **07.15.2023 更新说明**
 
 OpenAI/Chatgpt/Claude 2/Google Bard 分流规则整合至一起，共用 AI Platforms 策略；
