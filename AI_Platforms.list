@@ -2,7 +2,7 @@
 # created by blackmatrix7 
 # repo:https://github.com/blackmatrix7/ios_rule_script
 HOST-SUFFIX,cdn.auth0.com
-DOMAIN,o33249.ingest.sentry.io
+HOST,o33249.ingest.sentry.io
 HOST-SUFFIX,ai.com
 HOST-SUFFIX,challenges.cloudflare.com
 HOST-SUFFIX,identrust.com
