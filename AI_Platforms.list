@@ -1,7 +1,7 @@
 # https://openai.com/
 # created by blackmatrix7 
 # repo:https://github.com/blackmatrix7/ios_rule_script
-DOMAIN,cdn.auth0.com
+#DOMAIN,cdn.auth0.com
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
