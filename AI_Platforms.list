@@ -2,25 +2,25 @@
 # created by blackmatrix7 
 # repo:https://github.com/blackmatrix7/ios_rule_script
 
-# HOST-SUFFIX,cdn.auth0.com
-HOST,o33249.ingest.sentry.io
-HOST-SUFFIX,ai.com
-HOST-SUFFIX,challenges.cloudflare.com
-HOST-SUFFIX,identrust.com
-HOST-SUFFIX,stripe.com
-HOST-KEYWORD,openai
+HOST-SUFFIX,cdn.auth0.com,OpenAI
+HOST,o33249.ingest.sentry.io,OpenAI
+HOST-SUFFIX,ai.com,Netflix,OpenAI
+HOST-SUFFIX,challenges.cloudflare.com,OpenAI
+HOST-SUFFIX,identrust.com,OpenAI
+HOST-SUFFIX,stripe.com,OpenAI
+HOST-KEYWORD,openai,OpenAI
 
 # https://claude.ai/
 # created by limbopro
 # repo:https://github.com/limbopro/Profiles4limbo/
-HOST-KEYWORD,claude
+HOST-KEYWORD,claude,OpenAI
 
 # https://bard.google.com/
 # created by limbopro
 # repo:https://github.com/limbopro/Profiles4limbo/
 # HOST-SUFFIX,google.com
-HOST-SUFFIX,apis.google.com
-HOST-SUFFIX,bard.google.com
-HOST-SUFFIX,in.appcenter.ms
-HOST-SUFFIX,ogs.google.com
+HOST-SUFFIX,apis.google.com,OpenAI
+HOST-SUFFIX,bard.google.com,OpenAI
+HOST-SUFFIX,in.appcenter.ms,OpenAI
+HOST-SUFFIX,ogs.google.com,OpenAI
 # HOST-SUFFIX,www.google.com
