@@ -1,25 +1,25 @@
 # https://openai.com/
 # created by blackmatrix7 
 # repo:https://github.com/blackmatrix7/ios_rule_script
-DOMAIN-SUFFIX,cdn.auth0.com
+HOST-SUFFIX,cdn.auth0.com
 DOMAIN,o33249.ingest.sentry.io
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-KEYWORD,openai
+HOST-SUFFIX,ai.com
+HOST-SUFFIX,challenges.cloudflare.com
+HOST-SUFFIX,identrust.com
+HOST-SUFFIX,stripe.com
+HOST-KEYWORD,openai
 
 # https://claude.ai/
 # created by limbopro
 # repo:https://github.com/limbopro/Profiles4limbo/
-DOMAIN-KEYWORD,claude
+HOST-KEYWORD,claude
 
 # https://bard.google.com/
 # created by limbopro
 # repo:https://github.com/limbopro/Profiles4limbo/
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,apis.google.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,in.appcenter.ms
-DOMAIN-SUFFIX,ogs.google.com
-DOMAIN-SUFFIX,www.google.com
+# HOST-SUFFIX,google.com
+HOST-SUFFIX,apis.google.com
+HOST-SUFFIX,bard.google.com
+HOST-SUFFIX,in.appcenter.ms
+HOST-SUFFIX,ogs.google.com
+# HOST-SUFFIX,www.google.com
