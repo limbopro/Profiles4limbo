@@ -6,7 +6,7 @@
 
 3. 未来你可以自行添加策略组及分流规则集；
 
-## 下载配置文件（预配置分流、策略组）
+## 1.下载配置文件（预配置分流、策略组）
 
 ```
 https://limbopro.com/Surge/Surge4limbo.conf
@@ -16,7 +16,18 @@ https://limbopro.com/Surge/Surge4limbo.conf
 
 2.找到**导入**，点击**从URL下载配置**，粘贴刚刚复制的配置文件链接🔗；
 
-## 安装模块（Tiktok解锁、YouTubeApp去广告、毒奶去网页广告计划）
+## 2.配置 Surge.list（订阅你的机场）
+
+1.下载后配置文件后 1.进入主界面 - 出站模式 - 选择规则模式 - 点击进入代理服务器；
+
+2.分别找到如下策略组，♻️故障切换、🐟 final、Netflix；滑至底部，找到**外部代理列表**，粘贴你的 **surge.list**（你的机场提供的Surge订阅）。
+
+3.配置证书📄；
+
+### FAQ 如何获得机场订阅的Surge.list?（订阅转换API的使用）
+如果机场不直接提供，或可使用订阅转换API；可以使用 Sub-Store；高级订阅管理器：https://limbopro.com/archives/Sub-Store.html 
+
+## 4.安装模块（Tiktok解锁、YouTubeApp去广告、毒奶去网页广告计划）
 
 ### Sub-Store 高级订阅管理工具
 
@@ -55,40 +66,6 @@ https://limbopro.com/Adblock4limbo.sgmodule
 3.粘贴刚刚复制的模块链接，点击**好**，下滑，点击**安装**；
 
 4.任何时候，都可以通过**左滑模块名称**进行模块内容更新；
-
-## 配置 Surge.list（订阅你的机场）
-
-下载后配置文件后 1.进入主界面 - 出站模式 - 选择规则模式 - 点击进入代理服务器；
-
-2.分别找到如下策略组，♻️故障切换、🐟 final、Netflix；滑至底部，找到**外部代理列表**，粘贴你的 **surge.list**。
-
-3.配置证书📄；
-
-## FAQ 如何获得机场订阅的Surge.list?（订阅转换API的使用）
-如果机场不直接提供，或可使用订阅转换API；可以使用 Sub-Store；高级订阅管理器：https://limbopro.com/archives/Sub-Store.html 
-
-### 1个机场订阅的情况
-1.点击 https://www.urlencoder.org/ 进入编码页面，粘贴你的机场订阅，点击 ENCODE按钮，得到编码后的链接；
-
-2.https://limbopro.cyou/sub?target=surge&ver=4&url=这里粘贴编码后的链接&list=true
-
-3.以上，粘贴第2点得到的全新链接到**外部代理列表**处；
-
-### 多个机场订阅的情况（合并为1个订阅）
-
-这就涉及到正则表达式的使用了。
-
-**使用** `|` **将两个订阅分隔开**：
-
-```
-你的第1个订阅|你的第2个订阅|你的第3个订阅
-```
-
-1.点击 https://www.urlencoder.org/ 进入编码页面，粘贴，点击 ENCODE按钮，得到编码后的链接；
-
-2.https://limbopro.cyou/sub?target=surge&ver=4&url=这里粘贴编码后的链接&list=true
-
-3.以上，粘贴第2点得到的全新链接到外部代理处；
 
 ### 小知识
 
