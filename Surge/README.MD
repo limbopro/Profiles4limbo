@@ -1,4 +1,10 @@
-原文参阅：https://limbopro.com/archives/2561.html 
+## 准备工作
+
+1. 了解Sub-Store 高级订阅管理工具：https://limbopro.com/archives/Sub-Store.html 或 博主提供的订阅转换工具：https://limbopro.com/archives/subconverter.html
+
+2. 从你的机场找到 Surge 托管配置链接，复制到备忘录；
+
+3. 未来你可以自行添加策略组及分流规则集；
 
 ## 下载配置文件（预配置分流、策略组）
 
@@ -12,25 +18,37 @@ https://limbopro.com/Surge/Surge4limbo.conf
 
 ## 安装模块（Tiktok解锁、YouTubeApp去广告、毒奶去网页广告计划）
 
-**模块1：YoutubeApp去广告 重写** （由 [神机规则制作人-花姐](https://github.com/DivineEngine/Profiles/tree/master) 维护）
+### Sub-Store 高级订阅管理工具
+
+```
+https://raw.githubusercontent.com/Peng-YM/Sub-Store/master/config/Surge.sgmodule
+```
+
+### YoutubeApp去广告
+
+YoutubeApp去广告 重写** （由 [神机规则制作人-花姐](https://github.com/DivineEngine/Profiles/tree/master) 维护）
 
 ```
 https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Module/Block/YouTubeAds.sgmodule
 ```
 
-**模块2：Tiktok解锁重写** (由 [Tartarus2014](https://github.com/Tartarus2014/Surge-Script/tree/master/Unlock) 维护)
+### Tiktok解锁重写
+
+Tiktok解锁重写** (由 [Tartarus2014](https://github.com/Tartarus2014/Surge-Script/tree/master/Unlock) 维护)
 
 ```
 https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Unlock/TikTokUS.sgmodule
 ```
 
-**模块3：毒奶去网页广告计划** (由 [毒奶博主](https://limbopro.com/archives/12904.html) 维护)
+### 毒奶去网页广告计划
+
+毒奶去网页广告计划** (由 [毒奶博主](https://limbopro.com/archives/12904.html) 维护)
 
 ```
 https://limbopro.com/Adblock4limbo.sgmodule
 ```
 
-1.依次复制 上述1、2、3个模块的链接🔗，进入 Surge 主界面，下滑，找到**模块**项目，点击**模块**按钮；
+1.依次复制 上述模块的链接🔗，进入 Surge 主界面，下滑，找到**模块**项目，点击**模块**按钮；
 
 2.**安装的模块**，点击**安装新模块**；
 
