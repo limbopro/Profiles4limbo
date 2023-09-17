@@ -20,12 +20,12 @@ https://limbopro.com/Surge/Surge4limbo.conf
 
 1.下载后配置文件后 1.进入主界面 - 出站模式 - 选择规则模式 - 点击进入代理服务器；
 
-2.分别找到如下策略组，♻️故障切换、🐟 final、Netflix；滑至底部，找到**外部代理列表**，粘贴你的 **surge.list**（你的机场提供的Surge订阅）。
+2.分别找到如下策略组，♻️故障切换、🐟 final、Netflix；滑至底部，找到**外部代理列表**，粘贴你的 **surge.list**（你的机场提供的Surge订阅；如粘贴后保存失败，请参阅FAQ Sub-Store 高级订阅管理器，就可以把你机场提供的订阅转换为Surge支持的格式；）。
 
 3.配置证书📄；
 
 ### FAQ 如何获得机场订阅的Surge.list?（订阅转换API的使用）
-如果机场不直接提供，或可使用订阅转换API；可以使用 Sub-Store；高级订阅管理器：https://limbopro.com/archives/Sub-Store.html 
+如果机场不直接提供，或可使用订阅转换API；可以使用 Sub-Store 高级订阅管理器：https://limbopro.com/archives/Sub-Store.html 
 
 ## 4.安装模块（Tiktok解锁、YouTubeApp去广告、毒奶去网页广告计划）
 
