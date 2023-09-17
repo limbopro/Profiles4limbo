@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/Tartarus2014/Surge-Script/master/Unlock/TikTok
 https://limbopro.com/Adblock4limbo.sgmodule
 ```
 
-1.复制 上述1、2、3个模块的链接🔗，进入 Surge 主界面，下滑，找到**模块**项目，点击**模块**按钮；
+1.依次复制 上述1、2、3个模块的链接🔗，进入 Surge 主界面，下滑，找到**模块**项目，点击**模块**按钮；
 
 2.**安装的模块**，点击**安装新模块**；
 
@@ -42,12 +42,13 @@ https://limbopro.com/Adblock4limbo.sgmodule
 
 下载后配置文件后 1.进入主界面 - 出站模式 - 选择规则模式 - 点击进入代理服务器；
 
-2.分别找到如下策略组，♻️故障切换、其他国外流媒体、Netflix；滑至底部，找到**外部代理列表**，粘贴你的 **surge.list**。
+2.分别找到如下策略组，♻️故障切换、🐟 final、Netflix；滑至底部，找到**外部代理列表**，粘贴你的 **surge.list**。
 
 3.配置证书📄；
 
 ## FAQ 如何获得机场订阅的Surge.list?（订阅转换API的使用）
-如果机场不直接提供，或可使用订阅转换API；
+如果机场不直接提供，或可使用订阅转换API；可以使用 Sub-Store；高级订阅管理器：https://limbopro.com/archives/Sub-Store.html 
+
 ### 1个机场订阅的情况
 1.点击 https://www.urlencoder.org/ 进入编码页面，粘贴你的机场订阅，点击 ENCODE按钮，得到编码后的链接；
 
