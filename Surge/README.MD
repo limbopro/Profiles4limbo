@@ -1,6 +1,6 @@
 ## 准备工作
 
-1. 了解Sub-Store 高级订阅管理工具：https://limbopro.com/archives/Sub-Store.html 或 博主提供的订阅转换工具：https://limbopro.com/archives/subconverter.html
+1. 了解Sub-Store 高级订阅管理工具：https://limbopro.com/archives/Sub-Store.html；
 
 2. 从你的机场找到 Surge 托管配置链接，复制到备忘录；
 
