@@ -223,6 +223,12 @@ final, 🐟 Final
 > 2. 如果你的机场订阅仍然无法更新，在主界面找到名为`🐟Final`的`自定义策略`，点击展开可看到`其他国外流媒体`/`Proxy`/`故障切换`/`DIRECT`四个选项；（如果你的机场订阅无法更新，可依次选择 `DIRECT`/`PROXY`后再进行机场订阅更新，DIRECT意为着直连，不通过代理更新你的机场订阅；） 
 > 3. 更多疑问请查看  **FAQ** 部分；
 
+## 设置策略组图标颜色
+
+![QuantumultX_icon_backgroundcolor.png][11]
+
+根据个人喜好修改**图标/背景**，以及给**策略**组排序；
+
 # 出现错误及解决 Faq（已知问题及其解决方法）
 
 ## 未知错误 - 未知策略或节点
@@ -286,3 +292,4 @@ https://t.me/limboprossr
 [3]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/Quantumult%20X%20%E4%B8%BB%E9%A1%B5%E4%BB%8B%E7%BB%8D.png
 [4]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/%E6%97%A5%E5%BF%97.png
 [5]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/%E2%99%BB%EF%B8%8F%20%E6%95%85%E9%9A%9C%E5%88%87%E6%8D%A2.png
+[11]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/QuantumultX_icon_backgroundcolor.png
