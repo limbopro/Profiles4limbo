@@ -70,7 +70,7 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 2. [NobyDa](https://github.com/NobyDa/Script/tree/master) 脚本仓库（*如删库可替换 NobyDa 为 limbopro，其他同理）
 3. [NobyDa-AD](https://github.com/NobyDa/ND-AD) 野比去广告分流；（10w+）
 2. [ConnersHua](https://github.com/ConnersHua/Profiles/tree/master) 神机规则（停止更新）
-3. [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master) 神机规则（更新中），包含 `YouTube APP`去广告/`Tiktok` 解锁的重写，请自行查看；
+3. [DivineEngine](https://github.com/DivineEngine/Profiles/tree/master) 神机规则（停止更新），包含 `YouTube APP`去广告/`Tiktok` 解锁的重写，请自行查看；
 3. [limbopro](https://github.com/limbopro/Profiles/tree/master/limbopro) 机场专线
 4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
 5. [chavyleung](https://github.com/chavyleung/scripts) 签到脚本
