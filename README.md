@@ -60,18 +60,10 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 
 
 ## 毒奶预配置文件说明
-<details>
-<summary>展开查看</summary>
-0. 利用 Quantumult X 自带的 [配置文件] - [下载] 功能对 Quantumult X 各个模块进行预配置；
-1. 包括但不限于[分流]/[重写]；
-2. 利用 NobyDa 贡献的脚本解锁🔓各项事务，VSCO，~~Termius~~，网易蜗牛读书会员等；
-3. **Surge/Clash** 用户可使用由毒奶提供的 订阅转换 API，亦能获得相同的效果；https://limbopro.com/archives/subconverter.html
-</details>
 
 ## 本预配置文件所引用到的仓库说明
 
-<details>
-<summary>展开查看</summary>
+
 
 0. 在此毒奶对大家的付出表示感谢
 1. [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script) 分流规则/重写/去广告（持续更新，涵盖时下流行的大多数海外App/大陆App分流规则，适用于 Surge/QuantumultX/Loon/Clash/Shadowrocket...）
@@ -83,7 +75,6 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 4. [Qure](https://github.com/Koolson/Qure/tree/master/IconSet) 开源图标
 5. [chavyleung](https://github.com/chavyleung/scripts) 签到脚本
 
-</details>
 
 ## 关于策略组及分流的说明
 
@@ -91,19 +82,21 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 
 - **故障切换**：该策略自动会自动从下到下检测该策略下所选用节点的可用情况，然后自动切换到可用节点（surge 会切换选中最低延迟节点）；；
 - **机场专线**：主流机场域名分流规则，例如 N3RO ，你可使其请求走代理，直连等；
-- **社交媒体**：国外社交媒体，如Twitter/Facebook/Instagram/Telegram 等，**流量消耗小，但需要稳定**；
+- ~~**社交媒体**：国外社交媒体，如Twitter/Facebook/Instagram/Telegram 等，**流量消耗小，但需要稳定**；~~
 - **苹果服务**：苹果服务相关分流规则；
-- **AI Platforms**：：chatGPT/OpenAI/Google Bard/Claude2...分流规则（2023热门）；
+- **Ai Platforms**：：chatGPT/OpenAI/Google Bard/Claude2...分流规则（2023热门）；
 - **Netflix**：鉴于大家喜欢看 Netflix；
 - **Disney+**：鉴于大家喜欢看 Disney+（较少数，英文生肉较多）；
 - **Tiktok**：鉴于大家喜欢看 Tiktok（嘿嘿嘿）；大家可以刷[网页版TikTok](https://www.tiktok.com/foryou)哦；
-- **其他国外流媒体**：如油管，P站等一切你可以想得到国外流媒体，**流量消耗大**；
+- ~~**其他国外流媒体**：如油管，P站等一切你可以想得到国外流媒体，**流量消耗大**；~~
 - **广告拦截**：默认选择 `Reject`，广告拦截可能会造成某些错误🙅，届时 将 **广告拦截** 的 **策略偏好** 修改为 PROXY 或 Direct 即可；
 - **Final**： 排除以上已知的分流规则的其他未知；
 
+> 如果大家想为其他App配置分流，如 YouTube/Twitter/Telegram... 可在 blackmatrix7 的Github 仓库尝试自行查找，引用；
+
 **大陆/海外App分流规则整理来自blackmatrix7**：https://github.com/blackmatrix7/ios_rule_script （持续更新，涵盖时下流行的大多数海外App/大陆App分流规则，适用于 Surge/QuantumultX/Loon/Clash/Shadowrocket...）
 **大陆/海外App分流规则整理来自神机（花姐）规则**：https://github.com/DivineEngine/Profiles/tree/master （已停更）
-**去广告规则来自NobyDa（野比）规则**：https://github.com/NobyDa/
+~~**去广告规则来自NobyDa（野比）规则**：https://github.com/NobyDa/~~
 **机场专线规则来自博主（毒奶）**：https://github.com/limbopro/Profiles4limbo
 
 # 具体操作（如何使用QX懒人配置文件）
