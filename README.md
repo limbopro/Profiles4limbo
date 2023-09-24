@@ -126,22 +126,25 @@ Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解
 ;预配置作者
 ;毒奶博主
 ;limbopro.com
-;09.17.2023 更新   
+;09.24.2023 更新   
 ;https://t.me/limboprossr 关注更新
 ;https://t.me/Adblock4limbo 群组反馈与讨论交流
 
 [general]
+
 #解析器作者 @XIAO_KOP 
 resource_parser_url=https://raw.githubusercontent.com/KOP-XIAO/QuantumultX/master/Scripts/resource-parser.js
 
 #IP_API 改自 @XIAO_KOP
 geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubusercontent.com/limbopro/QuantumultX/master/Scripts/IP_API.js
 
+
 [dns]
 server=223.5.5.5
 server=114.114.114.114
 server=119.29.29.29
 address=/raw.githubusercontent.com/185.199.110.133
+
 
 [policy]
 static=🛑 广告拦截, REJECT, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/limbopro/Qure/master/IconSet/Advertising.png
@@ -155,6 +158,7 @@ static=🎵 TikTok, PROXY, img-url=https://raw.githubusercontent.com/limbopro/Zu
 static=🐟 Final, PROXY, ♻️ 故障切换, DIRECT, 🛑 广告拦截, img-url=https://raw.githubusercontent.com/limbopro/Zure/master/IconSet/Final.png
 
 [server_remote]
+
 
 [filter_remote]
 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/airports.list, tag=机场专线, force-policy=✈️ 机场专线, enabled=true
@@ -185,7 +189,12 @@ ip-cidr, 192.168.0.0/16, direct
 ip-cidr, 224.0.0.0/24, direct
 final, 🐟 Final
 
+
 [rewrite_local]
+
+[task_local]
+
+[http_backend]
 
 [mitm]
 #到这里结束
