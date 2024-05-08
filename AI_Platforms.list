@@ -8,6 +8,7 @@ HOST-SUFFIX,ai.com,OpenAI
 HOST-SUFFIX,challenges.cloudflare.com,OpenAI
 HOST-SUFFIX,identrust.com,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
+HOST-SUFFIX,chatgpt.com,OpenAI
 HOST-KEYWORD,openai,OpenAI
 
 # >> OpenAI CDN
