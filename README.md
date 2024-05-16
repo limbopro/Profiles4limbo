@@ -17,53 +17,10 @@
 3. [TG 电报群组](https://t.me/Adblock4limbo)；
 4. [Twitter](https://twitter.com/limboprossr)；
 
-# 说明
-
-## 历史更新说明 
-
-**08.05.2023 更新说明**
-
-策略组及分流新增 **Tiktok**，以方便喜欢刷Tiktok的用户；
-
-**07.15.2023 更新说明**
-
-OpenAI/Chatgpt/Claude 2/Google Bard 分流规则整合至一起，共用 AI Platforms 策略；
-
-**07.07.2023 更新说明**
-
-新增 Disney+/OpenAI分流规则，以及更新部分神机分流规则至 blackmatrix7
-
-**12.27.2020 更新说明**
-
-<details>
-<summary>展开查看</summary>
-
-Tiktok 最新版 v.18.2.1 可以解锁啦！记得备份啊笨蛋！个性化解锁参考 [如何使用Quantumult X解锁 TikTok 区域限制（免拔卡）](https://limbopro.com/archives/11773.html)
-</details>
-
-**11.13.2020 更新说明**
-
-<details>
-<summary>展开查看</summary>
-更新了分流规则至神机规则最新库；
-</details>
-
-**10.25.2020 更新说明**
-
-<details>
-<summary>展开查看</summary>
-
-1. 更新 预配置文件中分流规则至 **神机规则（更新中）**；
-2. 更新 **本预配置文件所引用到的仓库**；
-3. 新增毒奶去广告 [Rewrite] 跟 [filter]；参阅 https://t.me/limboprossr/1952 配置；可去除[奈菲影视](https://www.nfmovies.com/) /[低端影视](https://ddrk.me/)/[Jable.tv](https://jable.tv/)/[netflav](https://netflav.com)/[片库网](https://m.pianku.me/)/[嘀哩哩网站](https://www.dililitv.com/) 上的广告（内页广告以及片头广告）。
-</details>
-
 
 ## 毒奶预配置文件说明
 
 ## 本预配置文件所引用到的仓库说明
-
-
 
 0. 在此毒奶对大家的付出表示感谢
 1. [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script) 分流规则/重写/去广告（持续更新，涵盖时下流行的大多数海外App/大陆App分流规则，适用于 Surge/QuantumultX/Loon/Clash/Shadowrocket...）
@@ -161,6 +118,9 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Quant
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list, tag=🐭 Disney+, force-policy=🐭 Disney+, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/TikTok/TikTok.list,tag=🎵 TikTok, force-policy=🎵 TikTok, enabled=true
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Apple/Apple.list, tag=🍎 苹果服务, force-policy=🍎 苹果服务, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/OpenAI/OpenAI.list, tag=🤖 AI Platforms, force-policy=🤖 AI Platforms, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BardAI/BardAI.list, tag=🤖 AI Platforms, force-policy=🤖 AI Platforms, enabled=true
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Claude/Claude.list, tag=🤖 AI Platforms, force-policy=🤖 AI Platforms, enabled=true
 https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/AI_Platforms_qx.list, tag=🤖 AI Platforms, force-policy=🤖 AI Platforms, enabled=true
 
 [rewrite_remote]
