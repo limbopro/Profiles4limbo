@@ -7,7 +7,7 @@
 ## 1.下载配置文件（预配置分流、策略组）
 
 ```
-https://limbopro.com/Surge/Surge4limbo.conf
+https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/Surge/Surge4limbo.conf
 ```
 
 1.复制上述链接，即懒人配置文件对应，进入 Surge 主界面，点击左上角配置切换按钮； 
