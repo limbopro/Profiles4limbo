@@ -33,7 +33,10 @@ https://limbopro.com/Surge/Surge4limbo.conf
 > 4.4. 进入 Surge - **首页** - 点击 **修改** ，开启 MitM/Rewrite/脚本 三个功能；
 
 ### FAQ 如何获得机场订阅的Surge.list?（订阅转换API的使用）
-如果机场不直接提供，或可使用订阅转换API；可以使用 Sub-Store 高级订阅管理器：https://limbopro.com/archives/Sub-Store.html 
+
+这里为方便 将 Surge node list 简称为 Surge.list，即 适用于 Surge 的节点列表；
+
+如果机场不直接提供，或可使用订阅转换API；可以使用 Sub-Store 高级订阅管理器：https://limbopro.com/archives/Sub-Store.html ；如 Sub-Store 无法配置使用，请先使用由 毒奶博客 提供的订阅转换工具 进行获取 Surge node list：https://limbopro.com/archives/subconverter.html#Surge_%E4%B8%80%E9%94%AE%E6%87%92%E4%BA%BA%E9%85%8D%E7%BD%AE ，之后 再配置 Sub-Store（因为配置 Sub-store 需要使用到代理）；
 
 ## 4.安装模块（Tiktok解锁、YouTubeApp去广告、毒奶去网页广告计划）
 
