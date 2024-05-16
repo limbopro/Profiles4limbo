@@ -1,7 +1,7 @@
 ## 准备工作
 
 0. 了解 Surge 中文手册：https://surge.mitsea.com/policy
-1. 了解Sub-Store 高级订阅管理工具：https://limbopro.com/archives/Sub-Store.html；
+1. 了解Sub-Store 高级订阅管理工具：https://limbopro.com/archives/Sub-Store.html ；
 2. 从你的机场找到 Surge 托管配置链接，复制到备忘录；
 
 ## 1.下载配置文件（预配置分流、策略组）
