@@ -98,6 +98,8 @@ https://limbopro.com/Adblock4limbo.sgmodule
 
 ## 附注
 
+Surge 使用手册：https://surge.mitsea.com/overview 分流规则/策略组/DNS/Http重写进阶/脚本/...
+
 blackmatrix7 分流/重写项目仓库地址：https://github.com/blackmatrix7/ios_rule_script/tree/master （目前全网更新较为勤奋，且包含App最为齐全的分流...OpenAI/ChatGPT分流..） 本 QuantumultX 懒人配置目前仅涵盖较少部分常用海外App分流规则，大家如需可进行查阅仓库，并在 Quantumult X 引用；
 
 神机规则分流项目仓库地址：https://github.com/DivineEngine/Profiles/tree/master (已停更8个月)
