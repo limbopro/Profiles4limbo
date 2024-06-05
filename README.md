@@ -171,7 +171,9 @@ final, 🐟 Final
 >> ✅ 解决办法：打开 iPhone `设置` app - 搜索或下滑找到 `Safari浏览器` 点击 ， -找到 `默认浏览器App` ，选择 `Safari浏览器`， 然后重试第二步即可。  
 
 ## 第三步 订阅机场节点并为各个策略添加或删除节点
+
 ![Quantumult X PROXY/POLICY/延迟/节点可用性测试/操作界面认识/名称编辑/背景编辑.png][3]
+![Quantumult X 网络活动.png][119]
 
 > 1. 订阅你的机场节点；（📢如果对Quantumult X 操作不熟悉，请不要删除名为“无用节点”的节点订阅链接；）
 > 2. 一切就绪后进入 QuantumultX 主界面，长按各个 **策略组对应的图标或策略组名字**（如`♻️故障切换`/`🛬机场专线`..）就可以为该策略组添加+/或删除-不需要的节点了；
@@ -252,3 +254,4 @@ https://t.me/limboprossr
 [4]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/%E6%97%A5%E5%BF%97.png
 [5]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/%E2%99%BB%EF%B8%8F%20%E6%95%85%E9%9A%9C%E5%88%87%E6%8D%A2.png
 [11]: https://raw.githubusercontent.com/limbopro/Profiles4limbo/main/QuantumultX_icon_backgroundcolor.png
+[119]: https://limbopro.com/usr/uploads/2021/02/753438643.png
