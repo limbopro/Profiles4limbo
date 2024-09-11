@@ -76,7 +76,7 @@
 ;预配置作者
 ;毒奶博主
 ;limbopro.com
-;06.05.2024 更新   
+;09.11.2024 更新   
 ;https://t.me/limboprossr 关注更新
 ;https://t.me/Adblock4limbo 群组反馈与讨论交流
 
@@ -90,11 +90,13 @@ geo_location_checker=http://ip-api.com/json/?lang=zh-CN, https://raw.githubuserc
 
 
 [dns]
+;no-ipv6
+no-system
 server=223.5.5.5
 server=114.114.114.114
 server=119.29.29.29
-address=/raw.githubusercontent.com/185.199.110.133
-
+server=[2400:3200:baba::1]
+server=[2400:3200::1]
 
 [policy]
 static=🛑 广告拦截, REJECT, PROXY, DIRECT, img-url=https://raw.githubusercontent.com/limbopro/Qure/master/IconSet/Advertising.png
@@ -138,7 +140,6 @@ ip-cidr, 172.16.0.0/12, direct
 ip-cidr, 192.168.0.0/16, direct
 ip-cidr, 224.0.0.0/24, direct
 final, 🐟 Final
-
 
 [rewrite_local]
 
