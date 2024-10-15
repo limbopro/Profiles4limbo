@@ -12,10 +12,11 @@
 
 ## 及时收讯与反馈交流（遇到问题如何解决）
 0. ⚠️ 关于本预配置文件在使用过程中如有问题请务必优先参考本文档 具体操作 步骤部分以及 尾部的FAQ部分 进行解决，更多问题或建议请加入我们的电报群组；（FAQ存在的已知问题请勿重复提问）
-1. 文末 FAQ / 附注部分将会为大家提供一些Quantumult X 进阶使用方法教程；
-2. [TG 电报频道](https://t.me/limboprossr)；
-3. [TG 电报群组](https://t.me/Adblock4limbo)；
-4. [Twitter](https://twitter.com/limboprossr)；
+1. 文末 FAQ / 附注部分将会为大家提供一些Quantumult X 进阶使用方法教程  
+2. 直接联系博主电报：http://t.me/limboprobot / Gmail： service.limbopro.com@gmail.com  
+3. 关注TG 电报频道：https://t.me/limboprossr  
+4. 加入TG 电报群组：https://t.me/Adblock4limbo  
+5. 关注 Twitter https://twitter.com/limboprossr
 
 
 ## 毒奶预配置文件说明
