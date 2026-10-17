@@ -5,16 +5,16 @@
 ## Profiles4limbo
 毒奶预配置文件（Quantumult X）懒人一键配置，在你进行下一步操作之前请耐心把本文档看完以免造成不必要的麻烦，包含但不限于有可能存在的报错及规避方法，如何删除 ♻️故障切换 策略组下的无用节点（删除该无用节点的同时务必新增2个以上节点才能进行保存）；  
 
-### Mihomo 内核 / Clash系列 订阅转换工具🔧（可自定义基础配置）  
+### Mihomo 内核 / Clash Mihomo系列 订阅转换工具🔧（可自定义基础配置）  
 
 ![FlClash for Mac.jpg](https://limbopro.com/usr/uploads/2026/09/2769266601.jpg)  
 ![FlClash for Android / iOS Clash MI.jpg](https://limbopro.com/usr/uploads/2026/09/2867279337.jpg)  
 
 
 **地址**：https://limbopro.com/tools/2yaml  
-Mihomo, Clash, Clash Meta, 节点合并, 订阅转换, 订阅合并, 节点追加, YAML解析, KV托管；支持 YAML 配置文件自定义、多机场订阅节点去重追加、跨域拉取与一键生成托管订阅链接；  
+支持 Mihomo内核系列, Clash, Clash Meta, FlClash, Stash, Clash Mi, Clash Verge Rev, 节点合并, 订阅转换, 订阅合并, 节点追加, YAML解析, KV托管；支持 YAML 基础配置文件自定义、多机场订阅节点去重追加、跨域拉取与一键生成托管订阅链接；  
 
-自定义基础配置（自定义分流如X以及电报和油管ChatGPT等等/策略组/DNS/==），想要什么自己加？了解更多：https://limbopro.com/archives/36088.html  
+**自定义基础配置**（自定义分流如X以及电报和油管ChatGPT等等/策略组/DNS/==），想要什么自己加？了解更多：https://limbopro.com/archives/36088.html  
 
 ### Surge 懒人配置（without api）
 
